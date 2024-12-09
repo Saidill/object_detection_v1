@@ -1,0 +1,5 @@
+.venv
+/saved_model
+/yolov5s_tf
+/image
+coba.py
